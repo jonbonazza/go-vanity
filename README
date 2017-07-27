@@ -1,9 +1,0 @@
-vanity is a small utility for serving vanity imports.
-
-## Installation
-
-    go get honnef.co/go/vanity
-
-## Usage
-
-    See `vanity -h`
