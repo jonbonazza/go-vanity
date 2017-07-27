@@ -1,9 +1,0 @@
-{
-  "vanity": {
-    "VCS": "git",
-    "Name": "vanity",
-    "URL": "https://github.com/dominikh/go-vanity",
-    "Source": "https://github.com/dominikh/go-vanity",
-    "Documentation": "https://godoc.org/honnef.co/go/vanity"
-  }
-}
